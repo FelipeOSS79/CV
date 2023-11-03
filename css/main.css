@@ -2368,7 +2368,7 @@ body {
   background-color: #888;
   margin: 20px auto; }
   .separator.separator-primary {
-    background-color: #378C3F; }
+    background-color: #37388c; }
 
 .nav-pills .nav-item .nav-link {
   padding: 0 15.5px;
@@ -2744,7 +2744,7 @@ body {
   padding-bottom: .9rem;
   position: relative; }
   .alert.alert-success {
-    background-color: rgba(24, 206, 15, 0.8); }
+    background-color: rgba(15, 28, 206, 0.8); }
   .alert.alert-danger {
     background-color: rgba(255, 54, 54, 0.8); }
   .alert.alert-warning {
@@ -5123,7 +5123,7 @@ Created using IcoMoon - icomoon.io
   /* For Safari 5.1 to 6.0 */
   /* For Opera 11.1 to 12.0 */
   /* For Firefox 3.6 to 15 */
-  background: linear-gradient(0deg, rgba(15, 18, 206, 0.3), rgba(55, 124, 140, 0.6));
+  background: linear-gradient(0deg, rgba(15, 18, 206, 0.3), rgba(15, 18, 206, 0.3));
   /* Standard syntax */ }
   .page-header .btn {
     width: 140px; }
@@ -5266,12 +5266,6 @@ Created using IcoMoon - icomoon.io
 /* Social button style */
 .cc-facebook:hover i {
   color: #0000ff; }
-
-.cc-twitter:hover i {
-  color: #1da1f2; }
-
-.cc-google-plus:hover i {
-  color: #dd4b39; }
 
 .cc-instagram:hover i {
   color: #405de6; }
